@@ -1,7 +1,15 @@
 # HR Analytics with SQL
-HR Analytics with SQL
+SQL queries for HR Analytics
 
-Collection of **SQL queries for HR analytics**: turnover, terminations, hires, age, seniority, contracts, headcount (HC), and more.
+Here is the English version of your introduction:
+
+---
+## Description
+
+This document brings together a set of SQL queries and formulas designed for Human Resources Analytics (HR Analytics). Through practical examples, it covers key metrics such as employee turnover, hiring and termination counts, headcount management, and the analysis of employee age and seniority.
+
+It also includes techniques for filtering and segmenting data (such as types of terminations or age ranges), transforming and formatting information (especially dates), and performing common database operations like updates, deletions, and cumulative calculations. This index is intended as a quick reference guide to support the use of SQL in strategic decision-making within the Human Resources domain.
+
 
 ---
 
