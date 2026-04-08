@@ -1,7 +1,6 @@
 # HR Analytics with SQL
 SQL queries for HR Analytics
 
-Here is the English version of your introduction:
 
 ---
 ## Description
