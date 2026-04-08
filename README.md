@@ -1,5 +1,5 @@
-# SQL
-SLQ forms
+# HR Analytics with SQL
+HR Analytics with SQL
 
 Collection of **SQL queries for HR analytics**: turnover, terminations, hires, age, seniority, contracts, headcount (HC), and more.
 
